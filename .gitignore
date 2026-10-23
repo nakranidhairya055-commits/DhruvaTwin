@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+.env.local
+
+# Node / React
+node_modules/
+prayadarshini-client/node_modules/
+prayadarshini-client/build/
+npm-debug.log*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
